@@ -73,7 +73,7 @@ export default function Intro () {
                 </a>
             </motion.div>
 
-            <p>this is for github mac setup hehe</p>
+            <p>this is for github mac setup hehe take again.</p>
         </section>
     )
 }

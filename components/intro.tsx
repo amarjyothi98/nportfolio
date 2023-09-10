@@ -72,6 +72,8 @@ export default function Intro () {
                     <FaGithubSquare/>
                 </a>
             </motion.div>
+
+            <p>this is for github mac setup hehe</p>
         </section>
     )
 }
